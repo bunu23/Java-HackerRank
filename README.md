@@ -12,3 +12,4 @@
 | [6](https://www.hackerrank.com/challenges/java-loops-i/problem)            | [Loops I](java-loops-I)                          |
 | [7](https://www.hackerrank.com/challenges/java-loops/problem)              | [Loops](java-loops-II)                           |
 | [8](https://www.hackerrank.com/challenges/java-datatypes/problem)          | [Datatypes](java-datatypes)                      |
+| [9](https://www.hackerrank.com/challenges/java-end-of-file/problem)        | [End of file](end-of-file)                       |
