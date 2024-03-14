@@ -21,8 +21,8 @@
 
 # Strings
 
-| Problems                                                                      | Solutions                                    |
-| ----------------------------------------------------------------------------- | -------------------------------------------- |
-| [15](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Java Strings Introduction](string-intro)    |
-| [16](https://www.hackerrank.com/challenges/java-substring/problem)            | [Java Substring](substring)                  |
-| [17](https://www.hackerrank.com/challenges/java-string-compare/problem)       | [Java String Compare](Your_Description_Here) |
+| Problems                                                                      | Solutions                                  |
+| ----------------------------------------------------------------------------- | ------------------------------------------ |
+| [15](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Java Strings Introduction](string-intro)  |
+| [16](https://www.hackerrank.com/challenges/java-substring/problem)            | [Java Substring](substring)                |
+| [17](https://www.hackerrank.com/challenges/java-string-compare/problem)       | [Substring Compare](substring-comparision) |
