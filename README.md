@@ -26,3 +26,6 @@
 | [15](https://www.hackerrank.com/challenges/java-strings-introduction/problem) | [Java Strings Introduction](string-intro)  |
 | [16](https://www.hackerrank.com/challenges/java-substring/problem)            | [Java Substring](substring)                |
 | [17](https://www.hackerrank.com/challenges/java-string-compare/problem)       | [Substring Compare](substring-comparision) |
+| [18](https://www.hackerrank.com/challenges/java-string-reverse/problem)       | [Palindrom](string-reverse)                |
+| [19](https://www.hackerrank.com/challenges/java-anagrams/problem)             | [Anagrams](anagrams)                       |
+| [20](https://www.hackerrank.com/challenges/java-string-tokens/problem)        | [Tokens](tokens)                           |
