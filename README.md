@@ -29,3 +29,14 @@
 | [18](https://www.hackerrank.com/challenges/java-string-reverse/problem)       | [Palindrom](string-reverse)                |
 | [19](https://www.hackerrank.com/challenges/java-anagrams/problem)             | [Anagrams](anagrams)                       |
 | [20](https://www.hackerrank.com/challenges/java-string-tokens/problem)        | [Tokens](tokens)                           |
+
+# Object Oriented Programming
+
+| Problems                                                                                                                         | Solutions |
+| -------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Java Inheritance 1](https://www.hackerrank.com/challenges/java-inheritance-1/problem)                                           | [Link]()  |
+| [Java Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)                                           | [Link]()  |
+| [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)                                         | [Link]()  |
+| [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem)                                                   | [Link]()  |
+| [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem)                                   | [Link]()  |
+| [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Link]()  |
