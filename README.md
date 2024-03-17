@@ -32,11 +32,11 @@
 
 # Object Oriented Programming
 
-| Problems                                                                                                                         | Solutions |
-| -------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| [Java Inheritance 1](https://www.hackerrank.com/challenges/java-inheritance-1/problem)                                           | [Link]()  |
-| [Java Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)                                           | [Link]()  |
-| [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)                                         | [Link]()  |
-| [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem)                                                   | [Link]()  |
-| [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem)                                   | [Link]()  |
-| [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Link]()  |
+| Problems                                                                                                                         | Solutions                   |
+| -------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [Java Inheritance 1](https://www.hackerrank.com/challenges/java-inheritance-1/problem)                                           | [Link](InheritanceI)        |
+| [Java Inheritance 2](https://www.hackerrank.com/challenges/java-inheritance-2/problem)                                           | [Link](InheritanceII)       |
+| [Java Abstract Class](https://www.hackerrank.com/challenges/java-abstract-class/problem)                                         | [Link](abstract-class)      |
+| [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem)                                                   | [Link](interface)           |
+| [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem)                                   | [Link](method-overriding)   |
+| [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Link](method-overriding-2) |
