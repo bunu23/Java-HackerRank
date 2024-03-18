@@ -44,3 +44,9 @@
 | [Instanceof](https://www.hackerrank.com/challenges/java-instanceof-keyword/) | [Link](instance-of-keyword) |
 
 | [Iterator](https://www.hackerrank.com/challenges/java-iterator/problem) | [Link](iterator) |
+
+# Exception Handling
+
+| [try-catch](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) | [Link](try-catch) |
+
+| [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem) | [Link](exception-handling) |
