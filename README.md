@@ -45,8 +45,7 @@
 
 # Exception Handling
 
-| Problems                                                                                     | Solutions         |
-| -------------------------------------------------------------------------------------------- | ----------------- |
-| [try-catch](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) | [Link](try-catch) |
-
-| [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem) | [Link](exception-handling) |
+| Problems                                                                                     | Solutions                  |
+| -------------------------------------------------------------------------------------------- | -------------------------- |
+| [try-catch](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) | [Link](try-catch)          |
+| [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)  | [Link](exception-handling) |
