@@ -49,3 +49,11 @@
 | -------------------------------------------------------------------------------------------- | -------------------------- |
 | [try-catch](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem) | [Link](try-catch)          |
 | [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)  | [Link](exception-handling) |
+
+# Big Number
+
+| Problems                                                                            | Solutions              |
+| ----------------------------------------------------------------------------------- | ---------------------- |
+| [Big Decimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)        | [Link](big-decimal)    |
+| [Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Link](primality-test) |
+| [Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem)        | [Link](big-integer)    |
