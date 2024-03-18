@@ -40,3 +40,7 @@
 | [Java Interface](https://www.hackerrank.com/challenges/java-interface/problem)                                                   | [Link](interface)           |
 | [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem)                                   | [Link](method-overriding)   |
 | [Java Method Overriding 2 (Super Keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem) | [Link](method-overriding-2) |
+
+| [Instanceof](https://www.hackerrank.com/challenges/java-instanceof-keyword/) | [Link](instance-of-keyword) |
+
+| [Iterator](https://www.hackerrank.com/challenges/java-iterator/problem) | [Link](iterator) |
