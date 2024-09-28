@@ -7,6 +7,7 @@
 3. [Object-Oriented Programming](#object-oriented-programming)
 4. [Exception Handling](#exception-handling)
 5. [Big Numbers](#big-numbers)
+6. [Advanced](#advanced)
 
 ---
 
@@ -86,6 +87,14 @@ Working with Java's `BigInteger` and `BigDecimal` classes for handling very larg
 | 32  | [Big Decimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)        | [Solution](big-decimal)    |
 | 33  | [Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | [Solution](primality-test) |
 | 34  | [Big Integer](https://www.hackerrank.com/challenges/java-biginteger/problem)        | [Solution](big-integer)    |
+
+---
+
+### Advanced
+
+| #   | Problem                                                                                                                   | Solution                                    |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 35  | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem?isFullScreen=true) | [Solution](/advanced/java-varargs/Solution) |
 
 ---
 
