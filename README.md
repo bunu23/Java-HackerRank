@@ -92,9 +92,9 @@ Working with Java's `BigInteger` and `BigDecimal` classes for handling very larg
 
 ### Advanced
 
-| #   | Problem                                                                                                                   | Solution                                    |
-| --- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 35  | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem?isFullScreen=true) | [Solution](/advanced/java-varargs/Solution) |
+| #   | Problem                                                                                                                   | Solution                                   |
+| --- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 35  | [Java Varargs - Simple Addition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem?isFullScreen=true) | [Solution](advanced/java-varargs/Solution) |
 
 ---
 
