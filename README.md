@@ -13,6 +13,8 @@
 
 ### Introduction
 
+These problems cover the basics of Java programming, from input/output to loops and conditionals.
+
 | #   | Problem                                                                                                 | Solution                 |
 | --- | ------------------------------------------------------------------------------------------------------- | ------------------------ |
 | 1   | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)                       | [Solution](Introduction) |
